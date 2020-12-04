@@ -1,4 +1,4 @@
-@extends('layout.outer')
+@extends('layouts.outer')
 
 @section('content')
   <!-- ======= Hero Section ======= -->
